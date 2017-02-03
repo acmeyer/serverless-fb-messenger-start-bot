@@ -1,0 +1,22 @@
+{
+  "name": "serverless-fb-messenger-start-bot",
+  "version": "1.0.0",
+  "description": "Starter template for building Facebook Messenger bots with the Serverless framework.",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "facebook",
+    "facebook messenger",
+    "messenger",
+    "bot",
+    "bots"
+  ],
+  "author": "acmeyer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
